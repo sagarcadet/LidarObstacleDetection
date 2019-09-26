@@ -1,0 +1,10 @@
+It is a Lidar Obstacle Detection project. 
+
+The main goal of the project is to filter, segment, and cluster real point cloud data to detect obstacles in a driving environment.
+You can check out from my  Github repo: https://lnkd.in/gzivw83
+
+Moreover, I came across a great kernel which Rishabh Agrahari (the author of the kernel) developed in the Lyft 3D Object Detection for Autonomous Vehicles #NeurIPS2019 Kaggle Competition. He referenced one of my other project in autonomous driving and it is a  great pleasure to see my work referenced in another project.
+
+You can check out this kernel here:
+https://lnkd.in/guzhgtW
+https://lnkd.in/gKq5Ax9
